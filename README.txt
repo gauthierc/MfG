@@ -5,6 +5,7 @@ configurable through facts. It is written in python.
 
 Installation: 
 
+aptitude install python-yaml munin-node
 git clone https://github.com/gauthierc/MfG.git
 cd MfG
 ./setup.py build
